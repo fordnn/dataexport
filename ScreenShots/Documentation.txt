@@ -1,0 +1,8 @@
+<ol>
+<li>Install module like regular DotNetNuke module. </li>
+<li>Add module to the page. </li>
+<li>Module should look like this:<br /> <img src="http://fordnn.com/DesktopModules/forDNN.DataExporter/ScreenShots/ScreenShot_01.png" border="0" alt="Data Exporter for DotNetNuke" /> </li>
+<li>You can select "Source of data": Table, View or can write custom query.<br /> <img src="http://fordnn.com/DesktopModules/forDNN.DataExporter/ScreenShots/ScreenShot_02.png" border="0" alt="Data Exporter for DotNetNuke" /><br /> <img src="http://fordnn.com/DesktopModules/forDNN.DataExporter/ScreenShots/ScreenShot_03.png" border="0" alt="Data Exporter for DotNetNuke" /> </li>
+<li>To retireve data from the DataBase select type of export (Excel/XML/CSV) and click "Start Export". <br /> <img src="http://fordnn.com/DesktopModules/forDNN.DataExporter/ScreenShots/ScreenShot_04.png" border="0" alt="Data Exporter for DotNetNuke" /> </li>
+<li>All labels and messages can be localizable with standard DNN procedure. </li>
+</ol>

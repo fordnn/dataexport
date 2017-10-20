@@ -1,0 +1,1 @@
+Check documentation on how to work with this module http://dataexporter.codeplex.com/documentation

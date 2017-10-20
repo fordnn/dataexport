@@ -1,0 +1,14 @@
+Project Description
+DataExporter is a module for DotNetNuke. It allows to export Data from the DotNetNuke database. Module supports Excel, XML and CSV formats for export. Users interface allows to select source of Data: Tables, Views or Custom Query. It simple, easy and fast tool for DNN Admins.
+
+About DataExporter for DotNetNuke
+
+Very often Administrators and Developers of DotNetNuke have to work with data from the DataBase. Usually it needs to receive and to process the DataSet or transmit for processing into another application.
+
+forDNN Team has made this module to make process of retrieving data from the DB more easy.
+
+This module is pretty simple and fast. It allows to select DataSource: table, view or a custom query. List of tables and the view presented in the form like DropDowns. DropDowns contains names and number of entries for each of table/view. 
+
+Also module allows to choose the format in which data will be exported from the database. It supports three data formats: Excel, XML and CSV. 
+
+Hope this module saves time for our Colleagues from DotNetNuke community!
